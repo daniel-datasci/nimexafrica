@@ -1,0 +1,1 @@
+var e=`/assets/alliance-greenhouse-BJl7fTA1.webp`;export{e as t};

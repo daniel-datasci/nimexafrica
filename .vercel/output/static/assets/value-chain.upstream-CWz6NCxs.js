@@ -1,0 +1,1 @@
+import{o as e}from"./useStore-B9WcefOa.js";import{t}from"./index-DMNjipGi.js";import{t as n}from"./stage-page-BqY7Viu9.js";var r=e(),i=()=>(0,r.jsx)(n,{slug:`upstream`,image:t,imageAlt:`Rows of maize and soybean crops beside a grazing cattle herd at sunset`,nextTo:`/value-chain/midstream`,nextLabel:`Next: Midstream`});export{i as component};

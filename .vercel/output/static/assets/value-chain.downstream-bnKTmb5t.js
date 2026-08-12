@@ -1,0 +1,1 @@
+import{o as e}from"./useStore-B9WcefOa.js";import{t}from"./downstream-port-DuegXTOe.js";import{t as n}from"./stage-page-BqY7Viu9.js";var r=e(),i=()=>(0,r.jsx)(n,{slug:`downstream`,image:t,imageAlt:`Container ship loading at a Lagos port terminal at dusk`,nextTo:`/value-chain/technology`,nextLabel:`Next: Tech & Innovation`});export{i as component};

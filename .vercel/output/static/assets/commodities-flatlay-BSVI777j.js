@@ -1,0 +1,1 @@
+var e=`/assets/commodities-flatlay-1JfVMhJt.webp`;export{e as t};
