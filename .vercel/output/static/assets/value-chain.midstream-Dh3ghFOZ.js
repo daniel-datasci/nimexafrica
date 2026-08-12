@@ -1,1 +1,0 @@
-import{o as e}from"./useStore-B9WcefOa.js";import{t}from"./midstream-processing-BzpjsuEZ.js";import{t as n}from"./stage-page-BqY7Viu9.js";var r=e(),i=()=>(0,r.jsx)(n,{slug:`midstream`,image:t,imageAlt:`Workers operating stainless steel grain grading lines in a solar-powered processing plant`,nextTo:`/value-chain/downstream`,nextLabel:`Next: Downstream`});export{i as component};
