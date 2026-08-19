@@ -1,1 +1,0 @@
-var e=`/assets/community-outgrowers-BHtkdqbo.webp`;export{e as t};

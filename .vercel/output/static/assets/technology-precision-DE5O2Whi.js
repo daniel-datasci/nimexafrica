@@ -1,1 +1,0 @@
-var e=`/assets/technology-precision-DSdKTBZK.webp`;export{e as t};

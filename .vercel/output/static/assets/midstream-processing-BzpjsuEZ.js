@@ -1,1 +1,0 @@
-var e=`/assets/midstream-processing-CLVh9Nca.webp`;export{e as t};
