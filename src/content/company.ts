@@ -7,7 +7,7 @@ export const company = {
   tagline: "Driving Innovation Across the Transatlantic Agricultural Value Chain",
   summary:
     "An institutional agribusiness platform bridging Mexican agricultural technology and African land, climate diversity and market potential.",
-  corporateProfileUrl: "/corporate-profile.pdf", // PLACEHOLDER: upload the real PDF
+  corporateProfileUrl: "/corporate-profile.pdf",
   emails: {
     general: "info@nimexafrica.com",
     corporate: "corporate@nimexafrica.com",

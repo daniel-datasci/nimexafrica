@@ -131,6 +131,8 @@ function Index() {
             <AccentButton to="/value-chain">Explore Our Value Chain</AccentButton>
             <a
               href={company.corporateProfileUrl}
+              target="_blank"
+              rel="noopener noreferrer"
               className="group inline-flex items-center gap-2 rounded-full border border-deep-foreground/30 bg-deep-foreground/10 px-6 py-3.5 text-sm font-medium text-deep-foreground backdrop-blur-md transition-all duration-300 hover:-translate-y-0.5 hover:bg-deep-foreground/20"
             >
               Corporate Profile
